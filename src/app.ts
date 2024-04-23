@@ -1,6 +1,3 @@
-// i will try your every question of answer replay very detail and i make a story your every question  
-// I'm very excited to solve your 45 Question because i'm already teacher on Techzone Center in Shahr -e- faisal road. i have 2 year experiace in web development 
-
 // Question No 1
 
 // console.log("My setup is sucessfully Run in my Computer");
